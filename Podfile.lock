@@ -1,0 +1,40 @@
+PODS:
+  - Mortar (0.11.0)
+  - OpenCV (2.4.12.3)
+  - ReactiveCocoa (4.1.0):
+    - ReactiveCocoa/UI (= 4.1.0)
+    - Result (~> 2.0)
+  - ReactiveCocoa/Core (4.1.0):
+    - ReactiveCocoa/no-arc
+    - Result (~> 2.0)
+  - ReactiveCocoa/no-arc (4.1.0):
+    - Result (~> 2.0)
+  - ReactiveCocoa/UI (4.1.0):
+    - ReactiveCocoa/Core
+    - Result (~> 2.0)
+  - Result (2.0.0)
+  - Rex (0.10.0):
+    - ReactiveCocoa (~> 4.1)
+  - SwiftyBeaver (0.5.4)
+  - Then (1.0.2)
+
+DEPENDENCIES:
+  - Mortar (= 0.11.0)
+  - OpenCV (~> 2.4)
+  - ReactiveCocoa (= 4.1.0)
+  - Rex (= 0.10.0)
+  - SwiftyBeaver (= 0.5.4)
+  - Then (= 1.0.2)
+
+SPEC CHECKSUMS:
+  Mortar: bc863dfe63eb6f8598a11d7118330aefa3ba76e0
+  OpenCV: 52fd6b6b31296d817f69254441da111d5a661207
+  ReactiveCocoa: d70004d7a366a7b8e87e60ce2347182c77701949
+  Result: 9e75e1111c774c6ac594e14907b15057053a7959
+  Rex: e7e002297c0eee11e57b20177151f758e91741ad
+  SwiftyBeaver: 1f4ddee4a4fc266b9da99ebbd379df723d5c4241
+  Then: ad8e9b430e7bbb78da49457b4acc576947b2b3c1
+
+PODFILE CHECKSUM: 30b1e2437f1c87b3daea39c102ead9374043ea17
+
+COCOAPODS: 1.0.1
